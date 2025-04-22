@@ -1,0 +1,29 @@
+{
+    "sipUri": "sip:001@10.0.0.93",
+    "sipPassword": "80e9fac7dc4ad0b33a84a2b2f0cc53cc",
+    "wsUri": "wss://10.0.0.93:8089/ws",
+    "numbers": [
+    {
+    "number": "001",
+    "tags": [
+    "Main"
+    ]
+    }
+    ],
+    "statuses": [
+    {
+    "value": "online",
+    "text": "Online",
+    "color": "#057e74"
+    },
+    {
+    "value": "offline",
+    "text": "Offline",
+    "color": "#A9A9A9"
+    }
+    ],
+    "avatar": "https://avatars.githubusercontent.com/u/59776461",
+    "nickname": "Demo",
+    "qTts": true,
+    "qSummarization": true
+    }
